@@ -64,7 +64,6 @@
     "jest": "24.9.0",
     "lodash": "4.17.19",
     "metro-react-native-babel-preset": "0.59.0",
-    "proxy-polyfill": "^0.3.2",
     "react": "16.11.0",
     "react-autobind": "1.0.6",
     "react-native": "0.62.2",
@@ -134,5 +133,8 @@
       "text",
       "html"
     ]
+  },
+  "dependencies": {
+    "proxy-polyfill": "^0.3.2"
   }
 }
